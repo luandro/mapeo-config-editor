@@ -1,0 +1,14 @@
+{
+  "geometry": [
+    "point"
+  ],
+  "name": "Planta nativa do cerrado",
+  "icon": "cerrado",
+  "terms": [
+    "cerrado",
+    "árvore",
+    "planta"
+  ],
+  "sort": 0,
+  "fields": []
+}
