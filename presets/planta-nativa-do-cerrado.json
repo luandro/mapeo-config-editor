@@ -10,5 +10,8 @@
     "planta"
   ],
   "sort": 0,
-  "fields": []
+  "fields": [],
+  "tags": {
+    "type": "árvore"
+  }
 }
