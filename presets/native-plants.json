@@ -1,0 +1,13 @@
+{
+  "geometry": [
+    "point",
+    "area"
+  ],
+  "name": "Native Plants",
+  "icon": "cerrado",
+  "sort": 1,
+  "terms": [
+    "plants",
+    "vegetables"
+  ]
+}
